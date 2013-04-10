@@ -1,0 +1,3 @@
+I was tired of the ugly green/bland look of Gerrit for CM and decided to sexify it with proper colors and css. Meticulously tweaked with the help other CM-Graphics team members and nitpicking CM devs.  There is not much documentation for Gerrit customizing and it seems Gerrit devs hate webdevs, so hope this helps anyone that comes across it.
+
+Based mostly on OpenStack tweaks.
